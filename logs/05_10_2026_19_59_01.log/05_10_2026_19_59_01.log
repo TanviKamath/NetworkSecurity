@@ -1,0 +1,2 @@
+[ 2026-05-10 19:59:01,247 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2026-05-10 19:59:03,684 ] 47 root - INFO - Successfully loaded data from MongoDB

@@ -1,4 +1,4 @@
-### Network Security Projects For Phising Data
+### Network Security Projects For Phising Data , a ml pipeline
 
 Setup github secrets:
 AWS_ACCESS_KEY_ID=
